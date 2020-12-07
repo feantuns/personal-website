@@ -8,20 +8,20 @@ export const PostHeader = styled.header`
 `
 
 export const PostTitle = styled.h1`
-  font-size: 4rem;
+  font-size: 3.5rem;
   font-weight: 700;
   padding: 0 1.4rem;
   margin: 1rem auto;
 `
 
 export const PostDescription = styled.h2`
-  font-size: 2rem;
+  font-size: 1.8rem;
   font-weight: 200;
   padding: 0 1.4rem;
 `
 
 export const PostDate = styled.p`
-  font-size: 1.1rem;
+  font-size: 1rem;
   font-weight: 100;
   padding: 0 1.4rem;
 `
@@ -41,7 +41,7 @@ export const MainContent = styled.section`
   iframe,
   .button-post {
     color: #fff;
-    font-size: 1.25rem;
+    font-size: 1.1rem;
     font-weight: 300;
     line-height: 1.7;
     letter-spacing: 0.069rem;
@@ -55,7 +55,7 @@ export const MainContent = styled.section`
   h3,
   h4,
   h5 {
-    margin: 2.4rem auto 1rem;
+    margin: 2rem auto 1rem;
   }
   ul,
   ol {
@@ -88,11 +88,11 @@ export const MainContent = styled.section`
     color: #fff;
     border-left: 0.3rem solid #1fa1f2;
     padding: 0 1.875rem;
-    margin: 3.125rem auto;
+    margin: 2.8rem auto;
   }
   hr {
     border: 1px solid #38444d;
-    margin: 3rem auto;
+    margin: 2.6rem auto;
   }
   #twitter-widget-0,
   .instagram-media,
@@ -109,19 +109,19 @@ export const MainContent = styled.section`
     line-height: 1.4;
   }
   h1 {
-    font-size: 2.8rem;
+    font-size: 2.4rem;
   }
   h2 {
-    font-size: 2.1rem;
+    font-size: 1.7rem;
   }
   h3 {
-    font-size: 1.6rem;
+    font-size: 1.2rem;
   }
   h4 {
-    font-size: 1.4rem;
+    font-size: 1rem;
   }
   h5 {
-    font-size: 1.2rem;
+    font-size: 0.8rem;
   }
   strong {
     font-weight: 700;
