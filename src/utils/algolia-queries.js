@@ -7,11 +7,13 @@ const postsQuery = `{
           objectID: id
           frontmatter {
             category
+            background
             date(locale: "pt-br", formatString: "DD [de] MMMM [de] YYYY")
             date_timestamp: date
             description
             title
           }
+          timeToRead
           fields {
             slug
           }
