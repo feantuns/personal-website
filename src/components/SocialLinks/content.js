@@ -12,7 +12,7 @@ const links = [
     url: "https://www.instagram.com/ffelipeantuness",
   },
   {
-    label: "Envelope",
+    label: "Email",
     url: "mailto:contact@felipeantunes.me",
   },
 ]
