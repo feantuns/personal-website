@@ -8,7 +8,7 @@ import * as S from "../components/Post/styled"
 
 const AboutPage = () => (
   <Layout>
-    <SEO title="About" />
+    <SEO title="About | Felipe Antunes" />
     <S.MainContent>
       <h1>Sobre mim</h1>
       <p>
