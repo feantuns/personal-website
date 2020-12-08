@@ -17,7 +17,7 @@ const BlogList = props => {
 
   return (
     <Layout>
-      <SEO title="Home | Felipe Antunes" />
+      <SEO title="Home" />
       {postList.map(
         (
           {
