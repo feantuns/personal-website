@@ -30,7 +30,7 @@ const Profile = () => {
         direction="left"
         bg={getThemeColor()}
         duration={0.6}
-        to="/"
+        to="/about"
       >
         <Avatar />
         <S.ProfileAuthor>

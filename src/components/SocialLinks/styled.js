@@ -6,14 +6,18 @@ export const SocialLinksWrapper = styled.nav`
   width: 100%;
 
   ${media.lessThan("large")`
-    display: none;
+    display: ${props => (props.showAlways ? "block" : "none")};
   `}
 `
 export const SocialLinksList = styled.ul`
   align-items: center;
   display: flex;
   justify-content: space-around;
-  list-style: none;
+  /* These important lines are to override the default post ul
+     and ol styles
+   */
+  list-style: none !important;
+  padding: 0 !important;
 `
 
 export const SocialLinksItem = styled.li``
