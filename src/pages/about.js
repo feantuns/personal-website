@@ -12,7 +12,11 @@ const AboutPage = () => (
     <S.MainContent>
       <h1>Sobre mim</h1>
       <p>
-        Olá! 👋 &nbsp; Eu sou o Felipe, eu gosto muito de aprender mais sobre
+        Olá!{" "}
+        <span role="img" aria-label="Hand making Hi">
+          👋
+        </span>{" "}
+        &nbsp; Eu sou o Felipe, eu gosto muito de aprender mais sobre
         tecnologias e a web em geral a cada dia.
       </p>
       <p>
@@ -22,7 +26,10 @@ const AboutPage = () => (
       </p>
       <p>
         Eu queria ter um lugar para compartilhar as coisas que aprendo, então
-        decidi criar esse blog! 😃
+        decidi criar esse blog!{" "}
+        <span role="img" aria-label="Happy face">
+          😃
+        </span>
       </p>
       <h2>Contato</h2>
       <p>
