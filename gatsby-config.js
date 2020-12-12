@@ -83,6 +83,12 @@ module.exports = {
         icon: `src/images/favicon.png`,
       },
     },
+    {
+      resolve: "gatsby-plugin-google-tagmanager",
+      options: {
+        id: "GTM-NNXVJQJ",
+      },
+    },
     `gatsby-plugin-sitemap`,
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
