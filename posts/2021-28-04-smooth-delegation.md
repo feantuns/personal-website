@@ -1,7 +1,7 @@
 ---
 title: Smooth Delegation
 description: Tired of delegating in a rush?
-date: 2021-04-27 09:49:46
+date: 2021-04-28 09:49:46
 category: dev
 background: "#637a91"
 ---
