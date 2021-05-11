@@ -1,7 +1,7 @@
 ---
 title: Intro to SEO
 description: Also find out what Closure is.
-date: 2021-04-29 09:49:46
+date: 2021-05-03 09:49:46
 category: dev
 background: "#637a91"
 ---
