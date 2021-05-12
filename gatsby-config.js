@@ -5,9 +5,9 @@ const queries = require("./src/utils/algolia-queries")
 module.exports = {
   siteMetadata: {
     title: `Felipe Antunes`,
-    position: `Ser Humano`,
-    description: `Meu trabalho é programar e meu hobby é questionar.`,
-    author: `@ffelipeantunes`,
+    position: `Human Beign`,
+    description: `Trying to learn new things.`,
+    author: `@feantuns`,
     siteUrl: "https://felipeantunes.me",
   },
   plugins: [

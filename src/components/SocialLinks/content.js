@@ -1,15 +1,15 @@
 const links = [
   {
     label: "Github",
-    url: "https://github.com/felipeantuness",
+    url: "https://github.com/feantuns",
   },
   {
     label: "Twitter",
-    url: "https://twitter.com/ffelipeantunes",
+    url: "https://twitter.com/feantuns",
   },
   {
     label: "Instagram",
-    url: "https://www.instagram.com/ffelipeantuness",
+    url: "https://www.instagram.com/feantuns",
   },
   {
     label: "Email",
