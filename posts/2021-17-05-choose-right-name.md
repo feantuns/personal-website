@@ -10,10 +10,6 @@ background: "#637a91"
 
 ### File naming conventions (including case sensitive names)
 
-<img alt="Charge file naming confusion" style="width: 300px !important;" src="https://imgs.xkcd.com/comics/documents.png" />
-
-Image font: [https://datamanagement.hms.harvard.edu/collect/file-naming-conventions](https://datamanagement.hms.harvard.edu/collect/file-naming-conventions)
-
 Descriptive file names are an important part of organizing, sharing, and keeping track of data files. Develop a naming convention based on elements that are important to the project.
 
 ### File naming best practices:
