@@ -10,7 +10,7 @@ background: "#637a91"
 
 ### File naming conventions (including case sensitive names)
 
-![Charge file naming confusion](https://imgs.xkcd.com/comics/documents.png)
+<img src="https://imgs.xkcd.com/comics/documents.png" alt="Charge file naming confusion" width="300">
 
 Image font: [https://datamanagement.hms.harvard.edu/collect/file-naming-conventions](https://datamanagement.hms.harvard.edu/collect/file-naming-conventions)
 
